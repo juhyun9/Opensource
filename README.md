@@ -1,6 +1,6 @@
 # 🌺 제주 설화 - 당신의 제주 설화 캐릭터 & 마을을 발견하세요! 🌊
 
-https://private-user-images.githubusercontent.com/96998861/329130015-720c829e-f9f6-49a7-95ed-ede22a00032e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMzA2NzMsIm5iZiI6MTcxNTIzMDM3MywicGF0aCI6Ii85Njk5ODg2MS8zMjkxMzAwMTUtNzIwYzgyOWUtZjlmNi00OWE3LTk1ZWQtZWRlMjJhMDAwMzJlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA5VDA0NTI1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1MzI2ZDM0YTBjZDQzNjQ4ZGFhMzMyNTYxYjgyM2YzOGNmMTc3MWQxNjEwOGQ1MjZmNDdlZTE0YzE0MWQ3NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ONhu6lD41PoqqG0qTmVBPyb0q28FIsXVGeHfd4F_Y-A
+![jeju](https://github.com/juhyun9/Opensource/assets/96998861/720c829e-f9f6-49a7-95ed-ede22a00032e)
 
 
 제주 오픈소스 에 오신 것을 환영합니다! 
