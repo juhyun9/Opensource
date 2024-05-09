@@ -41,6 +41,11 @@ Image
 ## 💖 지원하기
 제주 테일즈를 사랑하신다면, GitHub 리포지토리에 별을 달아주시고 다른 이들과 서비스를 공유하여 지원해주세요!
 
+## 📚 레퍼런스
+1. ??
+2. ??
+3. ??
+
 # 🌺 Jeju Tales - Discover Your Jeju Character & Village! 🌊
 
 Welcome to **Jeju Tales**, a whimsical web service where you can explore the charming tales of Jeju Island through a blend of type and psychological analysis. Dive into the magical world of Jeju and find out which folklore character best represents you, and which village suits your travel vibes!
@@ -77,3 +82,8 @@ Have questions or suggestions? Reach out to us at email!
 
 ## 💖 Support
 Love Jeju Tales? Support us by starring our GitHub repo and sharing our service with others!
+
+## 📚 Reference
+1. ??
+2. ??
+3. ??
