@@ -25,6 +25,9 @@
 2. 퀴즈 참여하기: 재미있고 통찰력 있는 상호작용 퀴즈에 참여하세요.
 3. 발견하고 공유하기: 결과를 찾아 친구들과 가족과 공유하세요!
 
+## 🙌 팀
+Image
+
 ## 🤝 기여하기
 제주 테일즈의 성장을 돕고 싶으신가요? 모든 종류의 기여를 환영합니다:
 
@@ -58,6 +61,9 @@ Ready to embark on your Jeju adventure? Follow these simple steps to get started
 1. **Visit our Website**: Open your favorite browser and navigate to Jeju Tales.
 2. **Take the Quiz**: Engage with our interactive quiz that’s as fun as it is insightful.
 3. **Discover and Share**: Find out your results and share them with friends and family!
+
+## 🙌 Team
+Image
 
 ## 🤝 Contributing
 Interested in helping the Jeju Tales grow? We welcome contributions of all kinds:
