@@ -1,5 +1,8 @@
 # 🌺 제주 설화 - 당신의 제주 설화 캐릭터 & 마을을 발견하세요! 🌊
 
+https://private-user-images.githubusercontent.com/96998861/329130015-720c829e-f9f6-49a7-95ed-ede22a00032e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMzA2NzMsIm5iZiI6MTcxNTIzMDM3MywicGF0aCI6Ii85Njk5ODg2MS8zMjkxMzAwMTUtNzIwYzgyOWUtZjlmNi00OWE3LTk1ZWQtZWRlMjJhMDAwMzJlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA5VDA0NTI1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1MzI2ZDM0YTBjZDQzNjQ4ZGFhMzMyNTYxYjgyM2YzOGNmMTc3MWQxNjEwOGQ1MjZmNDdlZTE0YzE0MWQ3NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ONhu6lD41PoqqG0qTmVBPyb0q28FIsXVGeHfd4F_Y-A
+
+
 제주 오픈소스 에 오신 것을 환영합니다! 
 
 저희의 웹 서비스에서는 유형 분석과 심리 분석을 결합하여 제주도의 매력적인 설화를 탐험해봐요!
@@ -10,7 +13,7 @@
 
 ## 🌟 왜 제주 설화인가요?
 - 쉽게 공유할 수 있는 웹 서비스: 어디서나, 어떤 기기에서든 간편하게 접근할 수 있습니다.
-- 트렌디한 분석: 개성과 유형 분석의 인기 있는 트렌드를 활용하여 당신의 제주 발견을 재미있고 매력적으로 만듭니다.
+- 트렌디한 분석: ?? 트렌드를 활용하여 당신의 제주를 재미있고 매력적으로 만듭니다.
 - 바이럴 잠재력: 공유하기 쉽게 디자인되어 모든 이들이 자신의 제주 캐릭터를 알고 싶어하고 널리 퍼뜨리게 됩니다!
 
 ## 📜 여기서 무엇을 할 수 있나요?
