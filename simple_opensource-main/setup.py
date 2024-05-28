@@ -10,7 +10,7 @@ install_requires = [
 
 
 setup (
-    name             = 'toy', 
+    name             = 'feeling', 
     packages=find_packages(where='src'),
     version          = '1.0.0',
     package_dir={'': 'src'},
