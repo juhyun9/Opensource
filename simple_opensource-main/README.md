@@ -11,7 +11,9 @@
 
 입력 example
     # 감정 분석을 수행할 텍스트
-    
+
+from toy import myadd
+
 texts = [
     "I love this product! It's amazing.",
     "This is the worst experience I've ever had.",

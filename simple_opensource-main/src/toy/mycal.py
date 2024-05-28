@@ -1,6 +1,5 @@
 def myadd(a):
     from textblob import TextBlob
-
     texts=a
     
     # 텍스트에 대한 감정 분석
