@@ -1,4 +1,4 @@
-const url = 'https://github.io/Opensource_Project';
+const url = 'https://everytypetest.netlify.app';
 
 function setShare(){
   var resultImg = document.querySelector('#resultImg');
