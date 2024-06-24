@@ -4,8 +4,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    title = "제목을 입력해주세요"
-    paragraph = "<나만의 MBTI 사이트입니다!> 와 같은 한 줄 설명해주세요."
+    title = "제주 올레길 테스트"
+    paragraph = "누구나 쉽게 마음대로 만드는 유형테스트, 제주 올레길 유형테스트"
     return render_template('home.html', title=title, paragraph=paragraph)
 
 if __name__ == '__main__':
