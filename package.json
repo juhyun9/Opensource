@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "homepage": "https://juhyun9.github.io/Opensource/",
+  "name": "for-every-type-test",
+  "version": "0.1.0",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+
+}
