@@ -2,11 +2,23 @@ const main = document.querySelector("#main");
 const qna = document.querySelector("#qna");
 const result = document.querySelector("#result");
 
-const endPoint = 8; /* 질문 갯수 */
-const select = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]; /* 유형 갯수  */
+const endPoint = 8;
+const select = [0];
+
 function calResult(){
+  function sanitizeArray(arr) {
+    return arr.map(value => {
+        if (isNaN(value)) {
+            console.log(`NaN detected, converting to 0`);
+            return 0;
+        }
+        return value;
+    });
+}
+
+let sanitizedSelect = sanitizeArray(select);
   console.log(select);
-  var result = select.indexOf(Math.max(...select));
+  var result = sanitizedSelect.indexOf(Math.max(...sanitizedSelect));
   console.log(result)
   return result;
 }
@@ -104,3 +116,19 @@ function begin(){
     goNext(qIdx);
   }, 450);
 }
+
+async function fetchData() {
+  try {
+      let response = await fetch('http://127.0.0.1:5000/api_endpoint');
+      if (!response.ok) {
+          throw new Error('Network response was not ok');
+      }
+      let data = await response.json();
+      console.log(data);
+  } catch (error) {
+      console.error('Fetch error:', error);
+  }
+}
+
+fetchData();
+
