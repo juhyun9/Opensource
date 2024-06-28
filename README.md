@@ -19,7 +19,7 @@ Team 펠롱즈(김주현, 김소연, 곽예본)
 2. 판다코딩(nani6765)의 MyMBTI 프로젝트
 
 ### 실행 방법
-1. 프로젝트 다운받기 (git clone https://github.com/??)
+1. 프로젝트 다운받기 (git clone https://github.com/juhyun9/Opensource)
 2. app.py파일로 이동
 3. 플라스크 설치 (pip install flask)
 4. app.py 파일 실행
