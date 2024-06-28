@@ -7,6 +7,7 @@ app = Flask(__name__)
 def home():
     return render_template('home.html')
 
+
 @app.route('/update')
 def update_files_from_concept():
     # `concept.py` 파일의 내용을 기반으로 HTML 및 JavaScript 파일 업데이트
