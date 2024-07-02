@@ -3,7 +3,7 @@ const qna = document.querySelector("#qna");
 const result = document.querySelector("#result");
 
 const endPoint = 8;
-const select = [0];
+const select = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 
 function calResult() {
   function sanitizeArray(arr) {

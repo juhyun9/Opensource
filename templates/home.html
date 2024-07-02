@@ -9,20 +9,20 @@
   <!-- 키워드 정보 -->
   <meta name="keywords" content="유형테스트">
   <!-- 이 사이트 내용 정보 -->
-  <meta name="description" content="{{ og_description }}">
+  <meta name="description" content="모두를 위한 유형 테스트">
 
   <!-- sns share -->
   <meta property="og:url" content="https://everytypetest.netlify.app" />
-  <meta property="og:title" content="{{ og_title }}" />
+  <meta property="og:title" content="제주 올레길 추천 테스트" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="../static/img/share.png" />
-  <meta property="og:description" content="{{ og_description }}" />
+  <meta property="og:description" content="모두를 위한 유형 테스트" />
 
   <!--favicon-->
   <link rel="shortcut icon" href="../static/img/favicon.ico">
   <link rel="apple-touch-icon-precomposed" href="../static/img/favicon.ico" />
 
-  <title>{{ heading }}</title>
+  <title>제주 올레길 추천 테스트</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
@@ -33,11 +33,11 @@
 <body>
     <div class="container">
       <section id="main" class="mx-auto my-5 py-5 px-3">
-        <h1>당신의 새로운 유형</h1>
-        <div class="col-lg-6 col-md-8 col-sm-10 col-12 mx-auto">
+        <h2>⛰️ 제주 올레길 추천 테스트 ⛰️</h2>
+        <div class="col-lg-6 col-md-8 col-sm-10 col-12 mx-auto mt-4">
             <img src="/static/img/main.png" alt="mainImage" class="img-fluid">
         </div>
-        <p>{{ paragraph|safe }}</p>
+        <p style="margin-top: 30px;">제주 올레길에 대해 아시나요? 🌴 <br> 제주에는 다양한 매력을 가진 26가지의 올레길이 있어요. <br><br> 당신의 취향에 맞는 올레길, <br> 추천해드려요😉🙌</p>
             <button type="button" class="btn btn-outline-danger mt-3" onclick="js:begin()">시작하기</button>
 
       </section>
@@ -54,12 +54,12 @@
       </section>
 
       <section id="result" class="mx-auto my-5 py-5 px-3">
-        <h2>당신의 유형</h2>
-        <div class="resultname">
+        <h2>테스트 결과</h2>
+        <div class="resultname" style="margin-top: 30px; margin-bottom: 20px;">
         </div>
         <div id="resultImg" class="my-3 col-lg-6 col-md-8 col-sm-10 col-12 mx-auto">
         </div>
-        <div class="resultDesc">
+        <div class="resultDesc" style="margin-top: 40px; margin-bottom: 30px;">
   
         </div>
         <button type="button" class="share mt-3 py-2 px-3" onclick="js:setShare()">공유하기</button>
